@@ -1,0 +1,27 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "a movie app backend server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arabog/movie_app.git"
+  },
+  "keywords": [
+    "movie",
+    "fullstack",
+    "backend",
+    "expressjs",
+    "nodejs",
+    "app"
+  ],
+  "author": "sammy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arabog/movie_app/issues"
+  },
+  "homepage": "https://github.com/arabog/movie_app#readme"
+}
